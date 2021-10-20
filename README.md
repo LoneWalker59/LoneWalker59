@@ -8,7 +8,6 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=LoneWalker59&show_icons=true&theme=radical)
 
 ## Tecnologias que tenho projetos e noções básicas:
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
