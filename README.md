@@ -18,7 +18,7 @@
 
 <hr>
 <details>
-  <summary>:☣️ Most used technologies:</summary>
+  <summary>:☣️ Most used languages and tools:</summary>
 
 [![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWalker59&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
