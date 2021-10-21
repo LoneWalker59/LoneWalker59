@@ -14,7 +14,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </div><br/>
   
-  Entusiasta da tecnologia, formado em química e trilhando novos caminhos na área de programação. Atualmente estou cursando Análise e Desenvolvimento de sistemas, curso técnico no Senac.
+  Entusiasta da tecnologia e trilhando novos caminhos na área de programação. Atualmente estou cursando Análise e Desenvolvimento de sistemas, curso técnico no Senac.
 
 <hr>
 <details>
