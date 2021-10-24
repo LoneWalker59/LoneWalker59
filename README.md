@@ -1,24 +1,65 @@
-### Hi! I'm Bruno Tavares 🖐🏻
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tavares-a95490173/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruno.tavares616/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LoneWalker59/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lonewalker59@gmail.com)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bruno</h1>
+<h3 align="center">I'm a passionate developer under development from Brazil.</h3>
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=LoneWalker59&show_icons=true&theme=radical)
 
-## Languages and Tools:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div><br/>
-  
-  Enthusiast of technology and taking new paths in the area of ​​programming. I am currently studying Systems Analysis and Development, a technical course at Senac.
+## 🙋‍♂️ About Me
 
-<hr>
-<details>
-  <summary>:☣️ Most used languages and tools:</summary>
+- 🔭 I’m currently pursuing a degree on **analysis and systems development.**
 
-[![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWalker59&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+- 🌱 I’m currently learning **HTML, CSS, Javascript and Python.**
+
+- 👯 I'm a tech enthusiast and I'm always active on participating in **online bootcamps.**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/LoneWalker59?tab=repositories)**
+
+- 📫 How to reach me **lonewalker59@gmail.com**
+
+- ⚡ Fun fact **I love games and action figures.**
+
+## 🚀 Languages and Tools:
+
+<p align="left">  
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="streak-stats" alt="Bruno Tavares's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneWalker59&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href=""><img alt="Bruno Tavares's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoneWalker59&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img alt="Bruno Tavares's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWalker59&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href=""><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LoneWalker59&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/brunotavares59/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/bruno.tavares616/"><img src="https://img.icons8.com/external-justicon-flat-justicon/42/000000/external-facebook-social-media-justicon-flat-justicon.png"/></a>
+<a href = "hhttps://www.youtube.com/c/LoneWalker59/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="">
+    <img src="https://komarev.com/ghpvc/?username=LoneWalker59">
+</a>
+<a href=""><img src="https://img.shields.io/github/followers/LoneWalker59?label=Followers&style=social" alt="GitHub Badge"></a>
