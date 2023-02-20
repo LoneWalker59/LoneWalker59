@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing a degree on **analysis and systems development.**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, NodeJS, EJS and SQLite.**
+- 🌱 I’m currently learning **Java and SQLite.**
 
 - 👯 I'm a tech enthusiast and I'm always active on participating in **online bootcamps.**
 
